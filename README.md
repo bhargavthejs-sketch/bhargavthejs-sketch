@@ -1,14 +1,14 @@
 <h1 align="center">Bhargav Theja</h1>
 
 <p align="center">
-  <b>I build fast, mobile-first websites for local businesses in Edmonton.</b><br>
+  <b>I build fast, mobile-first websites for local businesses </b><br>
   Real menus, real reviews, real Google presence &mdash; not templates.
 </p>
 
 <p align="center">
   <a href="mailto:bhargavthejs@gmail.com">📧 bhargavthejs@gmail.com</a> &nbsp;·&nbsp;
   📞 (780) 708-3137 &nbsp;·&nbsp;
-  📍 Edmonton, AB
+  
 </p>
 
 ---
